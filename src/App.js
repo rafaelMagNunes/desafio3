@@ -22,7 +22,7 @@ function App() {
       const newRepository = {
         title,
         url: `http://${title}`,
-        teche: [
+        techs: [
           'Node js',
           'React js',
           'React Native',
